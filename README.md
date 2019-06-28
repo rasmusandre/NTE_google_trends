@@ -1,5 +1,5 @@
 # NTE_google_trends
-Script and data (.xlsx/.csv) for analyzing Google search trends and el spot prices in Trondheim for 2018. Feel free to clone this project and use it on your own.
+Python script and data (.xlsx/.csv) for analyzing linear correlations between Google search trends and el spot prices in Trondheim for 2018. The search frequencies are obtained from https://trends.google.com/trends/?geo=US Feel free to clone this project and use it on your own.
 
 The google search trends analyzed are: 'Nord-Trøndelag elektrisitetsverk', 'Gudbrandsdal Energi', 'Hafslund', 'AMS', 'strømpris'
 
